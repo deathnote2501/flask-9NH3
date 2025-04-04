@@ -6,7 +6,7 @@ Jinja2==2.11.3
 MarkupSafe==1.1.1
 Werkzeug==1.0.1
 
-# Dépendances pour la lib Tapo
+# Dépendances pour PyP100 (contrôle Tapo)
 PyP100==0.0.7
 requests==2.31.0
 pycryptodomex==3.20.0
