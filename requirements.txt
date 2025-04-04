@@ -1,8 +1,7 @@
 # requirements.txt
 
-Flask>=2.0.0  # Update Flask
-gunicorn>=20.1.0 # Update Gunicorn
-requests>=2.25.0 # Update requests
-pycryptodomex>=3.10.0 # Update pycryptodomex
-PyP100>=2.0.0  # Use a recent version of PyP100
-# Remove click, itsdangerous, Jinja2, MarkupSafe, Werkzeug - Flask will pull in compatible versions
+Flask>=2.0.0
+gunicorn>=20.1.0
+requests>=2.25.0
+pycryptodomex>=3.10.0
+pyp100>=2.0.0  # <-- Change this line to lowercase 'pyp100'
